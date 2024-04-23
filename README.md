@@ -1,51 +1,58 @@
-<!-- <style>
-h1 {
-    text-align: center; 
-    color: blue;
-    animation: myanimation 5s infinity;
-}
-@keyframes myanimation {
-    from {
-        color: blue;
-    }
-    to {
-        color: white;
-    }
-}
-</style>
-<h1>QR Code Compoment</h1> -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        h1 {
-            text-align: center;
-            color: blue;
-            animation: myanimation 5s infinite;
-        }
-        @keyframes myanimation {
-            from {
-                color: blue;
-            }
-            to {
-                color: white;
-            }
-        }
-    </style>
-</head>
-<body>
-    <h1>QR Code Component</h1>
-    <!-- Other content goes here -->
-    <p style="text-align: center;">Enhancement Challenge on Frontend Mentor, by Grazy =)</p>
-<img style="text-align: center;" src="./img/smartmockups_lvbt27r9.jpg">
-<p><small>This is my solution: ⇧</small></p>
+# 🌐 QR Code Component
+Enhancement Challenge on Frontend Mentor, Solution by Grazy =)
+<br>Frontend Mentor challenges help you improve your coding skills by building realistic projects. </p>
+
+## Table of content
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 <br>
-<h2>For desktop:</h2>
+<br>
+
+## Overview
+### 📸 Screenshot
+Mockups, notebook e smartphone.
+<img style="text-align: center;" src="./img/smartmockups_lvbt27r9.jpg">
+This is my solution: ⇧
+
+
+.
+
+.
+# 💻 For desktop:
 <img style="text-align: center;" src="./img/desktop-solution.png">
-<h2>For mobile:</h2>
+.
+
+# 📱 For mobile:
 <img style="text-align: center;" src="./img/mobile-solution.png">
 </body>
-</html>
-# QR-Code-component
+
+## 🔗 Links
+
+- Solution URL: [qr-code-component.com](https://grazysss.github.io/QR-Code-component/)
+
+
+## 💡 My process
+- Build with:
+  - HTML
+  - CSS
+  - Flexbox
+  - Figma
+  - Git 
+  - Github
+
+
+## 💞 Author
+- WebSite: [Currículo-Grazys on Github](https://grazysss.github.io/curriculo-grazy/)
+- Twitter: [@sz_grazys](https://twitter.com/sz_grays)
+- Github: [SIGAM-LÁ!!!](https://github.com/grazysss/)
+
+.
+
+.
+
+.
+# FINISH!!! ツ
